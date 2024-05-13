@@ -9,3 +9,7 @@ The <p> element defines a paragraph.
 <mark> defines marking any important text.
 <B> bolds the text.
 <i> italian style.
+<br/> To break the line and begin with next line.
+<pre> This tag shows how you written your code.
+<code> To display any code in your web page.
+
