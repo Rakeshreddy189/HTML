@@ -1,1 +1,12 @@
+By default webpage background will be in White in colour.
+There are two ways to decorate your web page background:
+1) HTML Background with colours.
+2) HTML Background with Images.
+Code = 
+<body bgcolor="red+blue+black">
+You can change text color:
+code = <body text="red">
+For Image you can give any image with the help of the path.
+code =
+<body background="Path with imagename and extension>
 
