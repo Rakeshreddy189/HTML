@@ -1,0 +1,14 @@
+We can create a table in HTML with using the tag <table> and </table>.
+To insert rows <tr> and </tr>
+To insert data in table <td> and </td>
+example code :
+<table border = 5>
+<tr>
+<th>Student Name</th>
+<th>Country</th>
+</tr>
+<tr>
+<td>Rakesh</th>
+<td>India</th>
+</tr>
+</table>
