@@ -9,4 +9,4 @@ code = <body text="red">
 For Image you can give any image with the help of the path.
 code =
 <body background="Path with imagename and extension>
-
+end
