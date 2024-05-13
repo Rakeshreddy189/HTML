@@ -1,0 +1,10 @@
+To display images :
+code = <img src="path with image name and extension"
+alt attribute used to display an image name when you cant display image.
+Using alt attribute :
+code = <img src="path with image name and extension" alt="image name"
+We can put the image in any size what ever we want by using height and width.
+code = <img src="path with image name and extension" width ="100" height="100".
+we can align where ever we want.
+code = <img src="path with image name and extension" align="right/left/middle".
+
