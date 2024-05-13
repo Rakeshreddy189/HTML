@@ -1,0 +1,11 @@
+The <!DOCTYPE html>declaration defines that this document is an HTML5 document.
+The <html> element is the root of an HTML page.
+The <head> element contains meta information about HTML page.
+The <title> element specifies a tittle for HTML page.
+The <body> element defines the documents body, and is a container for all visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
+The <h1> element defines a large heading.
+The <p> element defines a paragraph.
+<u> defines underline the text.
+<mark> defines marking any important text.
+<B> bolds the text.
+<i> italian style.
