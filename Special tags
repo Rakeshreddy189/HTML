@@ -1,0 +1,4 @@
+Marquee tag is used to move your text or image in the web page
+code:<marquee> </marquee>
+Links to click above the text or image with url to open new page.
+code:<a href="url that you want to open"> </a>
